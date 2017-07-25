@@ -5,5 +5,5 @@
 
 1. We select fidget spinner > the app asks how many and we choose 10.
     1. Notice in the DB there are 98 spinners @ $3.00 each.
-
+![Choosing a product](https://github.com/jthomassefcik/bamazon/blob/master/images/10Fidget.png)
 
